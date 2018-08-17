@@ -23,11 +23,6 @@ V1.0.2 更新说明: 添加年月的显示
 <!--<img src="image/ymd.jpg" height="320" width="180" style="margin-left:100"/>-->
 <!--<img src="image/hm.jpg" height="320" width="180" style="margin-left:100"/>-->
 
-### 效果
--------------
-
-![Alt text](image/dd.gif)
-
 ### DateType
 
 - TYPE_ALL--年、月、日、星期、时、分
