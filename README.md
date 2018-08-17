@@ -1,5 +1,5 @@
 # PickTime
-原地址：https://github.com/codbking/PickTime
+原项目地址：https://github.com/codbking/PickTime
 
 由于原作者一直没有更新该项目,因此鄙人不才打算接替维护这个项目
 
