@@ -1,4 +1,10 @@
 # PickTime
+原地址：https://github.com/codbking/PickTime
+
+由于原作者一直没有更新该项目,因此鄙人不才打算接替维护这个项目
+
+更新说明:更新添加年月的显示
+
 ## 日期选择控件 ##
 
 [![](https://jitpack.io/v/codbking/PickTime.svg)](https://jitpack.io/#codbking/PickTime)
