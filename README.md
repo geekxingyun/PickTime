@@ -35,6 +35,7 @@
 - TYPE_YMDH--年、月、日、时
 - TYPE_YMD--年、月、日
 - TYPE_HM--时、分
+- TYPE_YM--年、月
 
 ### how to use
 
@@ -52,7 +53,7 @@
  -  **Add the dependency**
 ```sh
 	dependencies {
-	        compile 'com.github.codbking:PickTime:v1.0.1'
+	        implementation 'com.github.geekxingyun:PickTime:v1.0.2'
 	}
 ```
 
