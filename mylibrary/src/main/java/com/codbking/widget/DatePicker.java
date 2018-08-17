@@ -110,6 +110,14 @@ class DatePicker extends BaseWheelPick {
                 this.monthView.setVisibility(GONE);
                 this.yearView.setVisibility(GONE);
                 break;
+            case TYPE_YM:
+                this.minuteView.setVisibility(GONE);
+                this.hourView.setVisibility(GONE);
+                this.weekView.setVisibility(GONE);
+                this.dayView.setVisibility(GONE);
+                this.monthView.setVisibility(VISIBLE);
+                this.yearView.setVisibility(VISIBLE);
+                break;
         }
 
         datePicker = new DatePickerHelper();
